@@ -3,7 +3,7 @@
 
 > En este README encontrarán toda la documentación, e instrucciones necesarias, para poder utilizar la API y el Sistema de Recomendación que se  solicitó desarrollar.
 
-[Video explicativo](completar)
+[Video explicativo](https://www.youtube.com/watch?v=D02HngLv77A)
 
 **MENU:** 
 * **Data** - _carpeta con los dataset de las 4 plataformas._
