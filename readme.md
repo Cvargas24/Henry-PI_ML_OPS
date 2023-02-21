@@ -29,17 +29,17 @@ https://deta.space/discovery/r/ipy5pbozxzzaqj6h
 
 ** Cómo escribir cada función en el navegador**
 
-- https://space_p01-1-o2159478.deta.app/get_word_count/{platform}/{anio}/{duration_type}
-- https://space_p01-1-o2159478.deta.app/get_score_count/{platform}/{scored}/{anio}
-- https://space_p01-1-o2159478.deta.app/get_count_platform/{platform}
-- https://space_p01-1-o2159478.deta.app/get_actor/{platform}/{anio}
+- https://space_p01-2-f2485253.deta.app/get_word_count/{platform}/{anio}/{duration_type}
+- https://space_p01-2-f2485253.deta.app/get_score_count/{platform}/{scored}/{anio}
+- https://space_p01-2-f2485253.deta.app/get_count_platform/{platform}
+- https://space_p01-2-f2485253.deta.app/get_actor/{platform}/{anio}
 
 **Queries de ejemplo para probar la API**
 
-- https://space_p01-1-o2159478.deta.app/get_word_count/amazon/2010/min
-- https://space_p01-1-o2159478.deta.app/get_score_count/amazon/3.6/2012
-- https://space_p01-1-o2159478.deta.app/get_count_platform/netflix
-- https://space_p01-1-o2159478.deta.app/get_actor/disney/2015
+- https://space_p01-2-f2485253.deta.app/get_word_count/amazon/2010/min
+- https://space_p01-2-f2485253.deta.app/get_score_count/amazon/3.6/2012
+- https://space_p01-2-f2485253.deta.app/get_count_platform/netflix
+- https://space_p01-2-f2485253.deta.app/get_actor/disney/2015
 
 
 
